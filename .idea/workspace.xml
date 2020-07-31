@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95bb5226-0181-4244-8c6d-ab1fa149d533" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cartao/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/CartaoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/RibbonConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/clients/ClienteClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/clients/ClienteClientConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/clients/ClienteClientErrorDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/controllers/CartaoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/dto/CartaoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/dto/CartaoEntradaDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/dto/Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/exceptions/ClienteNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/exceptions/ErrorHandlingControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/exceptions/ValidacaoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/models/Cartao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/models/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/repositories/CartaoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/java/br/com/leangua/cartao/services/CartaoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cartao/src/test/java/br/com/leangua/cartao/CartaoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/src/main/java/br/com/leangua/cliente/ClienteApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/src/main/java/br/com/leangua/cliente/controllers/ClienteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/src/main/java/br/com/leangua/cliente/exceptions/ClienteNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/src/main/java/br/com/leangua/cliente/models/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/src/main/java/br/com/leangua/cliente/repositories/ClienteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/src/main/java/br/com/leangua/cliente/services/ClienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente/src/test/java/br/com/leangua/cliente/ClienteApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/src/main/java/br/com/leangua/eureka/EurekaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/src/test/java/br/com/leangua/eureka/EurekaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/PagamentoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/clients/CartaoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/clients/CartaoClientErrorDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/clients/RibbonConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/controllers/PagamentoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/dtos/Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/dtos/PagamentoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/exceptions/CartaoNaoEncontradoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/exceptions/ErrorHandlingControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/exceptions/ValidacaoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/models/Cartao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/models/Pagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/repositories/PagamentoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/java/br/com/leangua/pagamento/services/PagamentoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagamento/src/test/java/br/com/leangua/pagamento/PagamentoApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fSaO4NE3ckFJBO1RlXwsQ0witP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cliente" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95bb5226-0181-4244-8c6d-ab1fa149d533" name="Default Changelist" comment="" />
+      <created>1596213912116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596213912116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1596214528244">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596214528244" />
+  </component>
+</project>
